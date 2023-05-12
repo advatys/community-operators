@@ -3,6 +3,5 @@ kind: OperatorGroup
 metadata:
   labels:
     app.kubernetes.io/instance: kubevirt-hyperconverged-operator
-  name: kubevirt-hyperconverged-operator-olm-helper
-  namespace: kubevirt-hyperconverged
+  name: kubevirt-hyperconverged-operatorgroup
 spec: {}
